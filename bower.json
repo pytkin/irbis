@@ -1,0 +1,8 @@
+{
+  "name": "irbis",
+  "dependencies": {
+    "bootstrap": "~3.3.4",
+    "jquery": "~2.1.3",
+    "normalize.css": "~3.0.3"
+  }
+}

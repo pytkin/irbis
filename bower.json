@@ -3,6 +3,8 @@
   "dependencies": {
     "bootstrap": "~3.3.4",
     "jquery": "~2.1.3",
-    "normalize.css": "~3.0.3"
+    "normalize.css": "~3.0.3",
+    "owl.carousel": "*",
+    "masonry": "~3.3.0"
   }
 }

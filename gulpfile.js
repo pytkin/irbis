@@ -123,7 +123,7 @@ gulp.task('wiredep', function () {
 });
 
 gulp.task('build', ['jscodestyle', 'html', 'images', 'fonts', 'extras'], function () {
-  return gulp.src('dist/**/*').pipe($.size({title: 'build', gzip: false}));
+  return gulp.src('dist/**/*').pipe($.size({title: 'build', gzip: true}));
 });
 
 gulp.task('default', ['clean'], function () {
